@@ -3,7 +3,7 @@
 [ext_resource type="PackedScene" uid="uid://d402t4h56qfp" path="res://scn/objects/block/block.tscn" id="1_yarac"]
 [ext_resource type="PackedScene" uid="uid://vlapvm56tbkt" path="res://scn/objects/player/player.tscn" id="2_8b77e"]
 [ext_resource type="Texture2D" uid="uid://c6so570qig5ha" path="res://icon.svg" id="3_6xnxd"]
-[ext_resource type="Script" uid="uid://dpcxy0qx75yf5" path="res://scn/levels/level1/icon.gd" id="4_8mmbw"]
+[ext_resource type="Script" path="res://scn/levels/level1/icon.gd" id="4_8mmbw"]
 
 [sub_resource type="BoxMesh" id="BoxMesh_fgtdq"]
 size = Vector3(10, 0.5, 10)
