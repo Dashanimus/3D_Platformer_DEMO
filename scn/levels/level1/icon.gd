@@ -4,10 +4,10 @@ extends Sprite3D
 var coins = 5   # Переменная int, может меять значение.
 var player_name = "robot"   # Перременная str.
 var hearts = 3.5   # Переменная float.
-const SPEED = 2  # Константа, постоянна и не меняется.
+const SPEED = 2  # Константа ВСЕГДА КАПСОМ, постоянна и не меняется.
 var x = coins / SPEED  # Можно комбинировать переменные и константы.
 # " = " это оператор присвоения, " == " это оператор равно.
-var is_godot_awesome = true  # Инициализируем как true
+var is_godot_awesome = true  # Инициализируем как true.
 var key_collected = false
 
 
